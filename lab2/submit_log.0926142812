@@ -1,0 +1,12 @@
+Submitting assignment 2 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+playMove.cpp gameState.cpp
+can't find file 'playMove.cpp'.
+can't find file 'gameState.cpp'.
+
+Error: cannot find all expected files in the current directory.
+Please make sure all necessary files are in the current directory. Also, 
+check that the file names are correct, including capitalization.
+
+No files were submitted
+
