@@ -3,4 +3,7 @@
 The C++ development environment
 
 ## Lab 2
-Graphical tic-tac-tow
+Graphical tic-tac-toe. Use of C++ classes.
+
+## Lab 3
+
