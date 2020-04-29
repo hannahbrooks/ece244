@@ -12,4 +12,4 @@ C++ I/O using a shape data base.
 Classes and linked lists using a recreation of Asteroids game.
 
 ## Lab 5
-Classes and trees/recursion
+Classes and trees/recursion.
